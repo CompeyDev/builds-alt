@@ -22,10 +22,10 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "TheAwesomeCoder05"
 description              : "An amazing website."
 url                      : "https://theawesomecoder05.github.io"
-baseurl                  : "/gem"
-repository               : "TheAwesomeCoder05/gem"
+baseurl                  : "/builds-alt"
+repository               : "TheAwesomeCoder05/builds-alt"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/Logo 113348"
+logo                     : "/assets/images/Logo 113348"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
