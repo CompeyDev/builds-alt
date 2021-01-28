@@ -13,7 +13,7 @@ To add it to Chrome(ium):
 6. Open a New Tab and you will see the DuckDuckGo Page.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://https://theawesomecoder05.github.io/builds-alt/assets/css/download.css">
+<link rel="stylesheet" href="https://theawesomecoder05.github.io/builds-alt/assets/css/download.css">
 <br>
 <br>
 <br>
