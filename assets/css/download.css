@@ -1,0 +1,19 @@
+.button {
+    background-color: #ff1e1e;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .button:hover {
+    background-color: #f00909;
+  }
+  
+  /*Centering the button*/
+  .center {
+    text-align: center;
+  }
+  
