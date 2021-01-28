@@ -12,7 +12,7 @@ Steps to install:
 5. The Web Browser will launch.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="builds-alt/assets/css/download.css">
+<link rel="stylesheet" href="https://theawesomecoder05.github.io/builds-alt/assets/css/download.css">
 <br>
 <br>
 <br>
