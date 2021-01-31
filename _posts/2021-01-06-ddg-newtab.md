@@ -21,3 +21,4 @@ To add it to Chrome(ium):
 <div class="center">
 <button onclick="window.location.href='https://bit.ly/38JmoIo';" class="button"><i class="fa fa-download"></i> Add to Chrome</button>
   </div>
+
