@@ -25,7 +25,7 @@ url                      : "https://theawesomecoder05.github.io"
 baseurl                  : "/builds-alt"
 repository               : "TheAwesomeCoder05/builds-alt"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "builds-alt/assets/images/Logo 113348"
+logo                     : "https://avatars.githubusercontent.com/u/74418041?v=4"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
