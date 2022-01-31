@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "TheAwesomeCoder05"
+  name             : "DevComp"
   avatar           : "https://avatars.githubusercontent.com/u/74418041?v=4"
-  bio              : "A coder who loves **GitHub** and **Git**."
-  location         : "Somewhere in the Awesomeverse."
+  bio              : "TheAwesomeCoder05"
+  location         : "Awesomeverse."
   email            :
   links:
     - label: "Email"
